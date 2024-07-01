@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,23,135,64"/>
+<area shape="rect" id="Node000001" href="$classBulkServer.html" title="Êëàññ &#45; ñåðâåð îáðàáîòêè ñåòåâûõ ïîäêëþ÷åíèé è óïðàâëåíèÿ ñåññèÿìè ïîëüçîâàòåëåé." alt="" coords="191,5,276,31"/>
+<area shape="poly" id="edge6_Node000000_Node000001" title=" " alt="" coords="150,28,190,22,191,27,151,34"/>
+<area shape="rect" id="Node000002" href="$classClientSession.html" title="Êëàññ &#45; ñåññèÿ ïîëüçîâàòåëÿ. Ïîçâîëÿåò ïîëüçîâàòåëÿì ïîäêëþ÷àòüñÿ ê ñåðâåðó â ðàìêàõ îòäåëüíîé ñåññèè." alt="" coords="183,55,284,80"/>
+<area shape="poly" id="edge7_Node000000_Node000002" title=" " alt="" coords="151,53,183,57,182,63,150,58"/>
+</map>
